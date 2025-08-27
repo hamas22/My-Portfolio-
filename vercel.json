@@ -1,7 +1,6 @@
 {
-  "build": {
-    "env": {
-      "NPM_FLAGS": "--legacy-peer-deps"
-    }
-  }
+  "version": 2,
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
 }
