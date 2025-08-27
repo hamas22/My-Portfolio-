@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback, memo } from "react"
 import { Github, Linkedin, Mail, ExternalLink } from "lucide-react"
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-// import myImage from '../../dist/home.jpg' 
+import myImage from '../../dist/home.jpg' 
 
 // Memoized Components (No changes here)
 const StatusBadge = memo(() => (
