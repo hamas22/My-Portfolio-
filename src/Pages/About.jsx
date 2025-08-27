@@ -2,7 +2,6 @@ import React, { useEffect, memo, useMemo } from "react"
 import { FileText, Code, Award, Globe, ArrowUpRight, Sparkles, UserCheck } from "lucide-react"
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-import hamas from '../../dist/hamas.png'
 
 // Memoized Components
 const Header = memo(() => (
@@ -48,7 +47,7 @@ const ProfileImage = memo(() => (
           <div className="absolute inset-0 rounded-full border-4 border-white/20 z-0 group-hover:border-white/40 transition-all duration-700" />
 
           <img
-            src={hamas}
+            src='/hamas.png'
             alt="Profile"
             className="relative z-10 w-[115%] h-[115%] object-cover rounded-full transform transition-all duration-700 group-hover:scale-[1.2] group-hover:rotate-2 origin-bottom"
             loading="lazy"
