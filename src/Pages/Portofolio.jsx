@@ -14,7 +14,6 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import Certificate from "../components/Certificate";
 import { Code, Award, Boxes } from "lucide-react";
-import php from '../../dist/sup.png'
 
 const ToggleButton = ({ onClick, isShowingMore }) => (
   <button
