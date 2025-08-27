@@ -2,7 +2,6 @@ import React, { useState, useEffect, useCallback, memo } from "react"
 import { Github, Linkedin, Mail, ExternalLink } from "lucide-react"
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-import myImage from '../../dist/home.jpg' 
 
 // Memoized Components (No changes here)
 const StatusBadge = memo(() => (
@@ -199,7 +198,7 @@ const Home = () => {
 
     {/* Image */}
     <img
-      src={myImage}
+      src='/home.jpg'
       alt="Creative coding illustration"
       className="relative w-full max-w-[180px] sm:max-w-[240px] md:max-w-[300px] lg:max-w-[350px] rounded-full opacity-90 
                  group-hover:opacity-100 
