@@ -6,7 +6,7 @@ Let me introduce myself, I'm **Hamas Mohamed**. On this occasion, I'd like to sh
 
 ## 🚀 Live Demo
 
-**Website Link:** [https://www.hamas.my.id/]()
+**Website Link:** [https://www.hamas.my.id/](https://my-portfolio-npc6.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +35,7 @@ Follow these steps to run the project locally:
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/EkiZR/Portofolio_V5.git
+git clone https://github.com/hamas22/My-Portfolio-.git
 cd Portofolio_V5
 ```
 
@@ -233,15 +233,3 @@ If you encounter issues while running the project:
 
 We would appreciate it if you decide to use this project. Please include proper credit when using it. Thank you\! 🙏
 
-## 📞 Contact
-
-If you have any questions or need help with the setup, feel free to reach out\!
-
-**Eki Zulfar Rachman**
-
-  - Website: [https://www.eki.my.id/](https://www.eki.my.id/)
-  - GitHub: [EkiZR](https://github.com/EkiZR)
-
------
-
-⭐ If this project helped you, please consider giving it a star on GitHub\!
