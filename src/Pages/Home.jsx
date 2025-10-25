@@ -204,7 +204,7 @@ const Home = () => {
                  group-hover:opacity-100 
                  group-hover:scale-110 
                  group-hover:rotate-6 
-                 transition-transform transition-opacity duration-500"
+                 transition-transform duration-500"
     />
   </div>
 </div>
